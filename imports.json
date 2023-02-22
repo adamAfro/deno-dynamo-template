@@ -1,0 +1,9 @@
+{
+    "imports": {
+        "index": "./src/index.ts",
+        "jsdom": "https://jspm.dev/jsdom",
+        "mediatypes": "https://deno.land/std@0.177.0/media_types/mod.ts",
+        "asserts": "https://deno.land/std@0.177.0/testing/asserts.ts",
+        "esbuild": "https://deno.land/x/esbuild@v0.15.10/mod.js"
+    }
+}

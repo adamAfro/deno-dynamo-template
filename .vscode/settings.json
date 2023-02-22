@@ -1,0 +1,12 @@
+{
+    "deno.enable": true,
+    "deno.lint": false,
+    "deno.config": "ts.json",
+    "deno.importMap": "./imports.json",
+    "lit-html.tags": [
+        "html",
+        "raw",
+        "HTML"
+    ],
+    "lit-html.format.enabled": true
+}
